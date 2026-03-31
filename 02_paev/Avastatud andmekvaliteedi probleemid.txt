@@ -1,0 +1,7 @@
+Avastatud andmekvaliteedi probleemid ja parandused
+
+Müügiesindaja sisendi põhjal tehtud muudatused, 31.03.2026:
+* Sale ID S00007 ja S00008 puhul Customer ID C005 peab olema C004.
+* Product ID P005 ja P006 peab olema P004. Muudetud puhastatud failis 31.03.2026 müügiesindaja sisendi põhjal.
+* Qyantity sale ID S00009 vigane kogus 300 peab olema 3. Muudetud puhastatud failis 31.03.2026 müügiesindaja sisendi põhjal.
+* Unit price sale ID S00010 vigane kogus 2000 peab olema 20. Muudetud puhastatud failis.

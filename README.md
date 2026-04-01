@@ -1,4 +1,1 @@
-# andmetarkus2026
-Andmetarkuse kursuse materjalid
-
-Failid
+Siin asuvad andmetarkuse kursuse materjalid

@@ -13,6 +13,7 @@ HR department provided two files:
 
 ### Data cleaning
 I checked data for uniqueness, formats and outliers through PowerQuery.
-Survey dataset didn't have an unique key column. I created a new column "AnswerKey" which combined "Question Round" and "Answer ID".
+Survey dataset didn't have an unique key column. I created a new column "AnswerKey" which combined "Question Round" and "Answer ID". As survey dataset didn't have the dates of the survey I created a new column "Survey Date" which contains dates of the surveys based on the info received from the HR department.
+In survey dataset un-pivoted question related fields.
 In HR dataset I removed columns containing personal data: "First Name", "Last Name", "Email". Also removed column "Employment Status" as the data in that column was not up to date according to the HR department.
 Column "Salary" was changed to Decimal Number format.

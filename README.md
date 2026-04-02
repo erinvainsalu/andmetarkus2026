@@ -22,3 +22,7 @@ Changes made based on sales representative input, 31.03.2026:
 ## Analysis
 
 ## Recommendations
+
+### Näidis
+
+https://github.com/virverani/andmetarkus2026
